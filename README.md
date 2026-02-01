@@ -9,5 +9,7 @@
     <h1>Welcome to My GitHub Pages Site</h1>
     <p>This is my first GitHub Pages deployment!</p>
     <p>What are you doing!?</p>
+    <h1>fuck life it</h1>
+    <p>end my life</p>
 </body>
 </html>
